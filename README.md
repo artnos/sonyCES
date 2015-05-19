@@ -4,7 +4,7 @@ The goal was to create a registration page that allowed visitors to sign up and 
 
 This was made with PHP and PHPExcel and PHP mailer. 
 
-<a href="http://artsir.com/interactive/sonyCES/>View Page</a>
+<a href="http://artsir.com/interactive/sonyCES/">View Page</a>
 Note: The form is no longer active.
 
 ## Installation
